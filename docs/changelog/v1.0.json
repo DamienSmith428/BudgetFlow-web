@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "date": "06/17/2026",
+  "tag": "Initial Release",
+  "tagStyle": "initial",
+  "githubReleaseUrl": "https://github.com/DamienSmith428/BudgetFlow-web/releases/tag/BudgetFlow-V1.0",
+  "changes": [
+    {
+      "type": "added",
+      "items": [
+        "Initial release of BudgetFlow",
+        "Income setup with salary and hourly support",
+        "Pay frequency options: weekly, bi-weekly, and monthly",
+        "Paycheck deduction support for tax, insurance, and 401k",
+        "Add unlimited bills, subscriptions, and groceries",
+        "Quarterly and annual expense smoothing",
+        "One-time expense support for unexpected bills",
+        "Automatic monthly savings calculation",
+        "Configurable savings percentage slider",
+        "Optional minimum savings floor",
+        "Monthly financial snapshot saved automatically",
+        "Full financial history timeline",
+        "Expandable month-by-month history view",
+        "Insights screen with savings trend chart",
+        "Month-over-month comparison",
+        "Best month tracker",
+        "Overspending warnings and alerts",
+        "Low savings rate warning",
+        "Discretionary spending balance",
+        "Dark mode and light mode support",
+        "Fully on-device — no account or cloud sync required",
+        "No ads, no subscriptions, no data collection"
+      ]
+    }
+  ]
+}
