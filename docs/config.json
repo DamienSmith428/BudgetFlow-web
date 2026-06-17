@@ -1,0 +1,88 @@
+{
+  "app": {
+    "name": "Budget Flow",
+    "packageName": "com.budgetflow",
+    "tagline": "Budget once. Track forever.",
+    "description": "BudgetFlow is a personal budgeting app that does the heavy lifting for you. Set up your income, bills, and subscriptions once — and BudgetFlow automatically tracks your financial picture every month. Watch your savings grow, spot spending trends, and see your full financial history at a glance.",
+    "latestVersion": "1.0",
+    "eyebrow": "Budgeting",
+    "icon": "https://raw.githubusercontent.com/DamienSmith428/BudgetFlow-web/main/icon/app_icon_main.png"
+  },
+  "github": {
+    "repo": "DamienSmith428/BudgetFlow-web",
+    "baseUrl": "https://github.com/DamienSmith428/BudgetFlow-web"
+  },
+  "stats": [
+    {
+      "value": "1",
+      "label": "APK Build"
+    },
+    {
+      "value": "0",
+      "label": "Data Collected"
+    },
+    {
+      "value": "8",
+      "label": "Core Features"
+    },
+    {
+      "value": "N/A",
+      "label": "License"
+    }
+  ],
+  "features": [
+    {
+      "icon": "💰",
+      "title": "Budget Once, Track Forever",
+      "description": "Set up your income and expenses once — BudgetFlow handles the rest automatically every month."
+    },
+    {
+      "icon": "📊",
+      "title": "Full Financial History",
+      "description": "See your complete financial timeline month by month, going back as far as you've used the app."
+    },
+    {
+      "icon": "🧾",
+      "title": "Smart Expense Management",
+      "description": "Add bills, subscriptions, and groceries. Quarterly and annual expenses are automatically smoothed into monthly amounts."
+    },
+    {
+      "icon": "💸",
+      "title": "Paycheck Calculator",
+      "description": "Supports salary and hourly income, all pay frequencies and paycheck deductions."
+    },
+    {
+      "icon": "🏦",
+      "title": "Savings Planner",
+      "description": "Set a savings percentage and optional minimum floor. BudgetFlow tells you exactly how much to save each month."
+    },
+    {
+      "icon": "📈",
+      "title": "Insights & Trends",
+      "description": "Spot spending patterns, compare months side by side, and track your best saving streaks over time."
+    },
+    {
+      "icon": "⚠️",
+      "title": "Overspending Alerts",
+      "description": "Get instant warnings when expenses exceed income so you're never caught off guard."
+    },
+    {
+      "icon": "🔒",
+      "title": "Private By Design",
+      "description": "Everything stays on your device. No account, no cloud sync, no ads, no data collection."
+    }
+  ],
+  "downloads": [
+    {
+      "arch": "Universal",
+      "description": "Works on all supported Android devices.",
+      "recommended": true,
+      "filename": "BudgetFlow-{version}-release.apk"
+    }
+  ],
+  "changelog": {
+    "versions": [
+      "v1.0.json"
+    ]
+  }
+}
